@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Duality Fluxrate
+title: >
 email: flux.rate.3004 [at] gmail [dot] com
 description: The aim of this site is to catalog research and personal project interests, and the progress made on them.
 baseurl: "" # the subpath of your site, e.g. /blog
