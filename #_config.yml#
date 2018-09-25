@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: >
-email: flux.rate.3004 [at] gmail [dot] com
+email: usbmgb [at] gmail [dot] com
 description: The aim of this site is to catalog research and personal project interests, and the progress made on them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fluxrate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
